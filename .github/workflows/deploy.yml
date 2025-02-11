@@ -44,4 +44,4 @@ jobs:
             git clone https://github.com/PreciousDipe/fastapi-book-project.git
             cd fastapi-book-project/
             git pull
-            docker-compose up -d --build
+            sudo docker-compose up -d --build 
